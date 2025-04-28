@@ -43,7 +43,7 @@ Users can upload spatial and tabular data and receive interpolated results visua
 
 **Server:**
 
-1. Node -> v20.15.0
-2. Express -> 4.19.2
+1. Node 
+2. Express 
 2. Python 
 
