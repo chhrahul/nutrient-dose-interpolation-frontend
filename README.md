@@ -5,8 +5,8 @@ Nutrient Dose Interpolation
 
 ## Description
 
-The objective of this project is to develop an open-source web application that allows users to spatially interpolate nutrient levels—Nitrogen (N), Phosphorus (P), and Potassium (K)—across agricultural plots.
-Users can upload spatial and tabular data and receive interpolated results visualized on an interactive map, along with downloadable output maps.
+This is the **React** frontend for the Nutrient Dose Interpolation Web Application.  
+It allows users to upload sampling points (CSV) and plot boundaries (GeoJSON), send them to the backend, and visualize interpolated nutrient maps (Nitrogen, Phosphorus, Potassium) on an interactive map using **Leaflet.js**.
 
 ## Installation
 
@@ -40,10 +40,4 @@ Users can upload spatial and tabular data and receive interpolated results visua
 
 1. React 
 2. Bootstrap
-
-**Server:**
-
-1. Node 
-2. Express 
-2. Python 
 
