@@ -13,13 +13,13 @@ Users can upload spatial and tabular data and receive interpolated results visua
 1. Clone the repository:
 
     ```bash
-       git clone 
+       git clone https://github.com/chhrahul/nutrient-dose-interpolation-frontend.git
     ```
 
 2. Go to the project directory:
 
     ```bash
-
+       cd nutrient-dose-interpolation-frontend
     ```
 
 3. Install dependencies:
