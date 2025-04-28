@@ -38,6 +38,7 @@ It allows users to upload sampling points (CSV) and plot boundaries (GeoJSON), s
 
 **Client:**
 
-1. React 
-2. Bootstrap
+1. React -> 19.0.0
+2. Bootstrap -> 5.3.5
+3. React Leaflet -> 5.0.0
 
