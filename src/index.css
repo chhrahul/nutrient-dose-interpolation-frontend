@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropzone {
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  cursor: pointer;
+}
+
+.dropzone-active {
+  background-color: #e8f4ff;
+  border-color: #007bff;
+  cursor: copy;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+}
+
+.dropzone-inactive {
+  background-color: #fff;
+  border-color: #6c757d;
+  cursor: pointer;
+}
+
+.dropzone:hover {
+  background-color: #f8f9fa;
+  border-color: #007bff;
+}
